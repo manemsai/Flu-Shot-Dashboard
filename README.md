@@ -1,6 +1,5 @@
 # Flu-Shot-Dashboard
-Project Overview
-This project focuses on analyzing flu shot data and visualizing key metrics to better understand vaccination trends and compliance. The analysis and dashboard aim to provide insights into flu shot administration by various demographic and geographic factors.
+This project focuses on analyzing flu shot 2022 data and visualizing key metrics to better understand vaccination trends and compliance. The analysis and dashboard aim to provide insights into flu shot administration by various demographic and geographic factors.
 
 Key Metrics Visualized
 Flu Shots by Age: Distribution of flu shots administered across different age groups.
